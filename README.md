@@ -1,1 +1,1 @@
-# Lovers Store
+# Lovers Store Home Page Design
