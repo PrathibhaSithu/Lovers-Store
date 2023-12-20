@@ -1,2 +1,2 @@
 # Lovers Store Home Page Design
-<img src = "img/Lovers-city.png">
+<img src = "imgs/Lovers-city.png">
